@@ -7,3 +7,7 @@ all my things:
 - messages.brian-tan.me
 
 - bsky.brian-tan.me
+
+- github.com/5brian
+
+- bsky.app/profile/did:plc:fbn6xbum2fojo56wjxff4b4m
